@@ -1,7 +1,7 @@
 # Notes & Retrospective: *Brave New Words* by Salman Khan
 
 <p align="center">
-  <img src="cover.jpg" alt="Brave New Words by Salman Khan" width="280"/>
+  <img src="cover.png" alt="Brave New Words by Salman Khan" width="280"/>
 </p>
 
 Published in mid-2024, *Brave New Words* arrived at what was framed as the dawn of generative AI in education. Reading it two years later, the sheer velocity of model development creates a noticeable tension: technically, parts of the book already feel somewhat dated, yet structurally, its systemic critique and human-centered warnings are more urgent than ever.
