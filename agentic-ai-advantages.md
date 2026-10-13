@@ -1,6 +1,6 @@
 # The Long-Term Advantages of Agentic AI — and Why You Shouldn't Fear It
 
-![Comparative AI Architectures: Chatbot Vending Machine vs Intelligent Feedback Loop Agent](assets/agent-vs-chatbot.png)
+![Comparative AI Architectures: Chatbot Vending Machine vs Intelligent Feedback Loop Agent](agent-vs-chatbot.png)
 
 ## 1. What Agentic AI Actually Is (vs. a Chatbot)
 
